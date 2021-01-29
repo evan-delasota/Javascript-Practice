@@ -5,7 +5,7 @@ const computer = {
         name: "Aorus Gaming 7",
         cpu: "Core i5-8600k",
         ram: "Corsair Vengeance 16gb",
-        cooler: "Noctua DH15",
+        cooler: "Noctua NH-D15",
         os: "Windows 10"
     },
 
